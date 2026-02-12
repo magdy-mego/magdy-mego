@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Magdy Heshmat
 
 🎓 Electronics & Industrial Control Engineering  
-⚙️ Embedded Systems | AI | Robotics | Control Systems
+⚙️ Embedded software engineer | AI | Robotics | Control Systems
 
 
 ---
@@ -33,7 +33,12 @@ Final-year electronics & industrial control engineering student focused on **emb
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=magdy-mego&show_icons=true&theme=tokyonight)
+![GitHub Stats](![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=magdy-mego&show_icons=true&theme=tokyonight)
+
+![Proteus Build](https://img.shields.io/badge/Simulated-Protected-brightgreen)
+![Tasks](https://img.shields.io/badge/Tasks-2%20Completed-blue)
+![Author](https://img.shields.io/badge/Author-Magdy%20Heshmat-orange)
+
 
 ---
 
