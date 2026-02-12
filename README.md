@@ -39,7 +39,7 @@ Final-year electronics & industrial control engineering student focused on **emb
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=magdy-mego&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdy-mego&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=magdy-mego&layout=compact&theme=tokyonight" />
 
 </div>
 
