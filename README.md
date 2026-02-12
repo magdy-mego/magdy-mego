@@ -32,8 +32,18 @@ Final-year electronics & industrial control engineering student focused on **emb
 
 ---
 
+
+<div align="center">
+
 ## 📈 GitHub Stats
-![GitHub Stats](![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=magdy-mego&show_icons=true&theme=tokyonight)
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=magdy-mego&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=magdy-mego&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
 
 ![Proteus Build](https://img.shields.io/badge/Simulated-Protected-brightgreen)
 ![Tasks](https://img.shields.io/badge/Tasks-2%20Completed-blue)
